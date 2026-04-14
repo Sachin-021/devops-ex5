@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Cricket Predictor", page_icon="🏏")
 
-st.markdown("<h1 style='text-align:center; color:#FF5733;'>🏏 Cricket Score Predictor</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align:center; color:#FF5733;'>🏏 updated Cricket Score Predictor</h1>", unsafe_allow_html=True)
 
 st.write("### Enter Match Details")
 
